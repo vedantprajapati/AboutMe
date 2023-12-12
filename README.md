@@ -11,6 +11,6 @@
 <li>Jenkins, Pytest, Selenium</li>
 <li>Flask, Django, SQLite, Mongodb, Bigquery</li>
 </br>
-<img align="left" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" widtb="160px" height="150px"/>
-
+<!-- <img align="left" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" widtb="160px" height="150px"/>
+ -->
 
